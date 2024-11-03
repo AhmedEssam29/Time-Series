@@ -39,4 +39,9 @@ Fitting the model and printing the summary provides information on parameter est
 
 - Consider other time series models (e.g., Prophet, LSTM for deep learning-based models) for complex patterns or longer-range predictions
 
+# The results
+This image shows the predicting values for period 1973 to 1974
+
+![alt text](https://github.com/AhmedEssam29/Time-Series/blob/main/app2.png?raw=true)
+
 
